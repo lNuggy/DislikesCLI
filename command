@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "/home/nuggy/Desktop/DislikesCLI/favicon.ico" --add-data "/home/nuggy/Desktop/DislikesCLI/templates:./templates"  "/home/nuggy/Desktop/DislikesCLI/main.py"
